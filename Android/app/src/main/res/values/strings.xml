@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cloudfunctionlogin</string>
+    <string name="auth_email">email</string>
+    <string name="auth_token">token</string>
+    <string name="acc_bal">Account Balance</string>
+    <string name="show_login">Already a member? Login.</string>
+    <string name="show_register">Not a member? Sign up now.</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+</resources>
